@@ -4,8 +4,8 @@ Informations générales getUser_Mail365
 
 :Autheur:            `Poltergeist42 <https://github.com/poltergeist42>`_
 :Projet:             getUser_Mail365
-:dépôt GitHub:       
-:documentation:      
+:dépôt GitHub:       https://github.com/poltergeist42/getUser_Mail365.git
+:documentation:      https://poltergeist42.github.io/getUser_Mail365/
 :Licence:            CC BY-NC-SA 4.0
 :Liens:              https://creativecommons.org/licenses/by-nc-sa/4.0/
 
@@ -23,8 +23,8 @@ adresse mail. Cette export est fait sous la forme d'un fichier CSV.
 Téléchargement / Installation
 =============================
 
-Vous pouvez télécharger le projet entier directement depuis son `dépôt GitHub <https://github.com/poltergeist42/msgTracker365.git>`_ .
-ou récupérer juste le script depuis le dossier `_3_software du dépôt GitHub <https://github.com/poltergeist42/msgTracker365/tree/master/_3_software>`_ .
+Vous pouvez télécharger le projet entier directement depuis son `dépôt GitHub <https://github.com/poltergeist42/getUser_Mail365.git>`_ .
+ou récupérer juste le script depuis le dossier `_3_software du dépôt GitHub <https://github.com/poltergeist42/getUser_Mail365/tree/master/_3_software>`_ .
 
 Le script n'a pas besoin d'installation, il doit simplement être exécuté. Voir 'Prérequis' et 'Utilisation'
    
@@ -99,6 +99,7 @@ Utilisation
             Permet de définir l'encodage des fichiers et du mail. La valeur "Default",
             récupère l'encodage du système depuis lequel est exécuter ce script.
             Les valeurs acceptées sont :
+            
                 * "Unicode", "UTF7", "UTF8", "ASCII", "UTF32", "BigEndianUnicode", "Default", "OEM"
     
     #. **Automatisation et planification**

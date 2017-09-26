@@ -4,10 +4,10 @@ Infos
 
     :Projet:             msgTracker365
     :Nom du fichier:     msgTracker365.ps1
-    :Dêpot_GitHub:       https://github.com/poltergeist42/msgTracker365
-    :Documentation:      https://poltergeist42.github.io/msgTracker365/
+    :Dêpot_GitHub:       https://github.com/poltergeist42/getUser_Mail365.git
+    :Documentation:      https://poltergeist42.github.io/getUser_Mail365/
     :Auteur:            `Poltergeist42 <https://github.com/poltergeist42>`_
-    :Version:            20170926-dev
+    :Version:            20170926
 
 ####
 
